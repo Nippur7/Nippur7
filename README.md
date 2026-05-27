@@ -85,14 +85,4 @@ San Salvador de Jujuy, Argentina · Open to remote opportunities worldwide
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nippur7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nippur7&show_icons=true&locale=en&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
----
-
 _Thanks for stopping by! Currently looking for **Data Scientist** or **ML Engineer** roles — feel free to reach out._
