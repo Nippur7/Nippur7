@@ -90,7 +90,7 @@ San Salvador de Jujuy, Argentina · Open to remote opportunities worldwide
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nippur7&show_icons=true&locale=en&theme=dracula&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nippur7&show_icons=true&locale=en&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
